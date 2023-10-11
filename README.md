@@ -33,8 +33,18 @@ Certifique-se de ter o seguinte instalado antes de executar o projeto:
 git clone https://github.com/seu-usuario/taskPro.git
 ```
 
-2. Acesse a pasta onde esta o manage.py
+2. Acesse a pasta onde esta o manage.py:
 
 ```
-cd ./
+cd ./projeto_taskPro
+```
+
+3. Rodar o projeto:
+```
+python manage.py runserver
+```
+
+4. Acessar o link gerado (por padrão usa-se o IP local com a porta 8000):
+```
+127.0.0.1:8000
 ```
