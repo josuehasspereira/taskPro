@@ -1,0 +1,22 @@
+{% extends 'tarefas/base.html' %}
+{% block conteudo %}
+
+<div class="container">
+    <h1>Listagem de tarefas: </h1>
+    <table class="table table-bordered table-striped">
+        <tr>
+            <th>id</th>
+            <th>nome</th>
+            <th>tarefa</th>
+        </tr>
+        {% for tarefa in tarefas %}
+        <tr>
+            <td>{{tarefa.id_tarefa}}</td>
+            <td>{{tarefa.nome}}</td>
+            <td>{{tarefa.tarefa}}</td>
+        </tr>
+        {% endfor %}
+    </table>
+</div>
+
+{% endblock %}
