@@ -25,7 +25,7 @@ Certifique-se de ter o seguinte instalado antes de executar o projeto:
 - Cada usuário pdoerá criar sua tarefa pessoal, sendo a mesma visivel apenas pelo seu criador
 
 
-## Instalação
+## Instalação - (É possível todar o projeto através do CodeSpace do Git, basta apenas instalar o DJANGO e rodar através do runserver)
 
 1. Clone o repositório:
 
