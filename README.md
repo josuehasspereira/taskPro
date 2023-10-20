@@ -22,7 +22,7 @@ Certifique-se de ter o seguinte instalado antes de executar o projeto:
 ## Em andamento
 
 - Vai ser criado além disso um sistema de cadastro de usuário com login e senha
-- Cada usuário pdoerá criar sua tarefa pessoal, sendo a mesma visivel apenas pelo seu criador
+- Cada usuário poderá criar sua tarefa pessoal, sendo a mesma visivel apenas pelo seu criador
 
 
 ## Instalação - (É possível todar o projeto através do CodeSpace do Git, basta apenas instalar o DJANGO e rodar através do runserver)
